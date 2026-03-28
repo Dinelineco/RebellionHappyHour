@@ -308,8 +308,6 @@ export default function App() {
       {/* Footer CTA */}
       <footer className="relative bg-[#f6ead9] pt-24 pb-20 px-6 overflow-hidden flex flex-col items-center text-center mt-0 border-t-8 border-flyerRed border-dashed">
         <div className="relative z-10 max-w-4xl">
-          <h2 className="text-6xl md:text-8xl font-amatic font-bold text-flyerPurple mb-4 tracking-widest">Scan Now. Obey Later.</h2>
-          <p className="text-xl md:text-3xl text-flyerRed font-caveat mb-10 font-bold">Reservations are highly recommended for our happy hour.</p>
           <a
             href={RESERVATION_LINK}
             target="_blank"
