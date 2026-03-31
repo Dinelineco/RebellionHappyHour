@@ -83,7 +83,7 @@ export default function App() {
             </motion.h1>
             
             <motion.p variants={fadeIn} className="text-xl md:text-2xl text-flyerPurple/90 font-caveat mb-12 max-w-2xl text-center font-bold">
-              Big wines. Small plates. An experience that would make Napoleon Bonaparte jealous.
+              Big wines. Big plates. An experience that would make Napoleon Bonaparte jealous.
             </motion.p>
             
             <motion.div variants={fadeIn} className="flex flex-col sm:flex-row gap-6 items-center justify-center mt-4">
@@ -297,8 +297,8 @@ export default function App() {
                 <img src="/rebellion-beachside-bar-and-bistro_meta-ad-food-photography_260312_d5efdb.png" alt="Chef's Special" className="w-full h-full object-cover transition-transform duration-[1.5s] ease-out group-hover:scale-110" />
               </div>
               <div className="p-6 text-center">
-                <h3 className="text-4xl md:text-5xl font-amatic font-bold text-flyerPurple tracking-widest leading-none mb-2">Hamachi Tartare</h3>
-                <p className="text-flyerRed font-sans text-xs uppercase tracking-widest font-bold">Fresh and delicate.</p>
+                <h3 className="text-4xl md:text-5xl font-amatic font-bold text-flyerPurple tracking-widest leading-none mb-2">Caesar Salad</h3>
+                <p className="text-flyerRed font-sans text-xs uppercase tracking-widest font-bold">Crisp, fresh, and classic.</p>
               </div>
             </motion.div>
           </div>
